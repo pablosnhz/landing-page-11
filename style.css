@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Great+Vibes&family=Montserrat:wght@200;400&family=Outfit:wght@100&family=Raleway:wght@500&family=Roboto+Mono:wght@200&family=Roboto:wght@300;400&display=swap');
+
+html,
+body {
+    font-family: 'Monserrat', sans-serif;
+}
+
+.display-1 {
+    font-size: 9rem;
+}
+
+.fst-italic {
+    font-family: 'Great Vibes';
+}
+
+.btn-primary {
+    background: rgb(255, 173, 85);
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #000;
+}
+
+
+.pt-6 {
+    padding-top: 80px;
+}
+
+
+.showcase {
+    background-image: url(./img/showcase.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.l-spacing {
+    letter-spacing: 5px;
+}
